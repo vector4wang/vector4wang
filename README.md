@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~
+
 <!--
 **vector4wang/vector4wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
