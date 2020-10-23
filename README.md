@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~
-
 <p align="center">
   <br><br>
   <p align="center">顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~</p>
