@@ -2,29 +2,27 @@
 
 革命尚未成功，同志还需努力 主导多个项目从0-1过程。有些许技巧与经验
 
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector4Wang&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-<img src="https://github.com/vector4wang/vector4wang/blob/master/images/fun.gif" width = "300" height = "200" alt="Java是世界上最好的语言，不接受反驳" align=center />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vector4Wang" />
 
 
-<br/>
+<img src="https://github.com/vector4wang/vector4wang/blob/master/images/fun.gif" width = "400" height = "250" alt="Java是世界上最好的语言，不接受反驳" align=center />
+
+
+
 
 ---
 
 <img align="left" alt="Vector4Wang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vector4Wang&show_icons=true&hide_border=true" />
 
 
-
-## :mailbox: How to reach me : 
-
+### :mailbox: How to reach me : 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:wdc43101289217@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/vector-wang-ab042a10a/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/vector4wang/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/BMHJQS)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/dyncrole/)
+
+<br/>
 
 ---
 
