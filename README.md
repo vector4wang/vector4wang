@@ -2,7 +2,8 @@
 
 革命尚未成功，同志还需努力 主导多个项目从0-1过程。有些许技巧与经验
 <br/>
-![image](https://github.com/vector4wang/vector4wang/blob/master/images/fun.gif)
+
+ <img src="https://github.com/vector4wang/vector4wang/blob/master/images/fun.gif" width = "300" height = "200" alt="Java是世界上最好的语言，不接受反驳" align=center />
 
 
 <br/>
