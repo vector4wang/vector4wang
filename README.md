@@ -5,7 +5,7 @@
 
 <img align="left" alt="Vector4Wang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vector4Wang&show_icons=true&hide_border=true" />
 
-<br>
+
 
 ## :mailbox: How to reach me : 
 
@@ -19,12 +19,7 @@
 
 <details>
 <summary>⚡️闪电入职的哦~</summary>
-<br />
-<p align="center">
-  <br><br>
-  <p align="center"><h3>顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~</h3></p>
-<br>
-</p>
+<p align="center"><h3>顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~</h3></p>
 </details>
 
 
