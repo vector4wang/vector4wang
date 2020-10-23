@@ -16,11 +16,10 @@
 
 
 ### :mailbox: How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:wdc43101289217@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/vector-wang-ab042a10a/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/vector4wang/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/BMHJQS)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/dyncrole/)
+[<img target="_blank" width = "50" height = "50" src="https://github.com/vector4wang/vector4wang/blob/master/images/wechart.png"/>](https://github.com/vector4wang/vector4wang/blob/master/images/qcord.jpg)
+[<img target="_blank" width = "50" height = "50" src="https://github.com/vector4wang/vector4wang/blob/master/images/mail.png"/>](mailto:vector4wang@qq.com)
+[<img target="_blank" width = "50" height = "50" src="https://github.com/vector4wang/vector4wang/blob/master/images/qq.png"/>](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772704457&website=www.oicqzone.com)
+[<img target="_blank" width = "50" height = "50" src="https://github.com/vector4wang/vector4wang/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/vector-wang-ab042a10a/)
 
 <br/>
 
