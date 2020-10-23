@@ -1,6 +1,9 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 革命尚未成功，同志还需努力 主导多个项目从0-1过程。有些许技巧与经验
+![image](https://github.com/vector4wang/vector4wang/blob/master/images/fun.gif)
+
+
 <br/>
 ---
 
