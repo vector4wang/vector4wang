@@ -19,7 +19,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/BMHJQS)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/dyncrole/)
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vector4wang&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vector4wang&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7" />
 
 <!--
 **vector4wang/vector4wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
