@@ -4,6 +4,7 @@
 
 <p align="center">
   <br><br>
+  <p align="center">顺丰科技常年开放Java、大数据、算法和产品等岗位，base深圳，有兴趣的私聊~</p>
   <samp>
     <br><br>:pizza: Take a look at my stats :P<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vector4wang&&show_icons=true&&theme=tokyonight" />
