@@ -21,7 +21,6 @@
 <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772704457&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/qq.png"/></a>
 [<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/csdn.png"/>](https://blog.csdn.net/qqHJQS)
 [<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/vector-wang-ab042a10a/)
-[<img target="_blank" width = "35" height = "35" src="https://github.com/vector4wang/vector4wang/blob/master/images/twitter.png"/>](https://twitter.com/BMHJQS)
 
 
 
