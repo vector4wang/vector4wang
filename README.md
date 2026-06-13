@@ -4,6 +4,8 @@
 $ whoami
 > AI-Powered Developer | Building small tools that solve big problems
 > 革命尚未成功，同志还需努力
+> 
+> 主导多个项目从 0-1，专注于发现真实痛点，构建小而美的工具
 ```
 
 ### 🎯 专注小而美的工具，解决真实的痛点
