@@ -4,7 +4,7 @@
 $ whoami
 > AI-Powered Developer | Building small tools that solve big problems
 > 革命尚未成功，同志还需努力
-> 
+>
 > 主导多个项目从 0-1，专注于发现真实痛点，构建小而美的工具
 ```
 
@@ -20,7 +20,7 @@ $ whoami
 class Developer {
     let name = "vector4wang"
     let philosophy = "Small tools, big impact"
-    
+
     func approach() {
         // 发现痛点 → 最小可行方案 → 快速验证 → 持续迭代
         // 不追求大而全，只解决一个真实的问题
@@ -37,11 +37,15 @@ class Developer {
 
 ---
 
-## 🔥 Featured Project: EdgeGlow
+## 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-### ✦ 让 AI 编程过程「可见」
+<td width="50%" valign="top">
+
+### ✦ EdgeGlow
+**让 AI 编程过程「可见」**
 
 [![macOS](https://img.shields.io/badge/macOS-13.0+-blue.svg)](https://www.apple.com/macos)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -52,12 +56,35 @@ class Developer {
 
 **方案**：屏幕边缘的流光效果，余光一瞥就知道 AI 状态
 
-🟢 AI 思考中 → 流光沿屏幕边缘旋转流动  
+🟢 AI 思考中 → 流光沿屏幕边缘旋转流动
 🔴 完成/等待 → 流光淡出消失
 
 **[→ 查看项目](https://github.com/vector4wang/EdgeGlow)** | **[→ 下载体验](https://github.com/vector4wang/EdgeGlow/releases)**
 
-</div>
+</td>
+
+<td width="50%" valign="top">
+
+### ✦ Poor Man's DevOps Agent
+**乞丐版运维助手 - 单文件 AI Debug Agent**
+
+[![Python](https://img.shields.io/badge/Python-2.7%2B%20%7C%203.x-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/vector4wang/poor-mans-devops-agent/blob/main/LICENSE)
+[![DevOps](https://img.shields.io/badge/DevOps-AI%20Agent-f8f?style=flat)]()
+
+**痛点**：没预算买 DataDog？扔上去一个脚本照样能 Debug！
+
+**方案**：上传即用的 AI Debug 脚本，支持 scp，支持 10+ 种诊断命令
+
+🟢 支持 DeepSeek / OpenAI 等 OpenAI 兼容 API
+🟢 命令白名单 + 危险拦截 + 人工确认，安全可靠
+
+**[→ 查看项目](https://github.com/vector4wang/poor-mans-devops-agent)** | **[→ 快速上手](https://github.com/vector4wang/poor-mans-devops-agent#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -124,8 +151,8 @@ class Developer {
 $ ps aux | grep "active projects"
 
 vector4wang  EdgeGlow v1.0.0     [macOS] AI 编程可视化反馈
+vector4wang  Poor Man's DevOps   [DevOps] AI 运维助手
 vector4wang  ???                 [research] 发现下一个真实痛点
-vector4wang  Open Source         [community] 分享经验，帮助他人
 ```
 
 ---
