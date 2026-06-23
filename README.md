@@ -42,7 +42,7 @@ class Developer {
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ✦ EdgeGlow
 **让 AI 编程过程「可见」**
@@ -63,7 +63,30 @@ class Developer {
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### ✦ EdgeGlow (Windows 版)
+**让 AI Coding Agent 状态在 Windows 屏幕边缘可见化**
+
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-12.0-239120?logo=csharp&logoColor=white)]()
+[![WPF](https://img.shields.io/badge/UI-WPF-512BD4.svg)]()
+[![SkiaSharp](https://img.shields.io/badge/render-SkiaSharp-11B3A6.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**痛点**：Windows 上用 AI 编程，看不见 Agent 是否在思考
+
+**方案**：屏幕边缘流光，余光一瞥即知 AI 状态（macOS 版的 Windows 移植）
+
+🟢 Agent 思考中 → 流光旋转流动
+🟢 多终端 PID 追踪，关一个不灭
+🟢 HTTP loopback 联动 Claude Code / Hermes
+
+**[→ 查看项目](https://github.com/vector4wang/EdgeGlow-Windows)** | **[→ 移植规格](https://github.com/vector4wang/EdgeGlow-Windows/blob/main/docs/windows-port-spec.md)**
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ✦ Poor Man's DevOps Agent
 **乞丐版运维助手 - 单文件 AI Debug Agent**
@@ -94,10 +117,10 @@ class Developer {
 
 | 领域 | 技术栈 |
 |------|--------|
-| **编程语言** | Swift, Python, Java, JavaScript |
-| **框架** | SwiftUI, Cocoa, Core Animation, Spring |
+| **编程语言** | Swift, C#, Python, Java, JavaScript |
+| **框架** | SwiftUI, Cocoa, Core Animation, WPF, SkiaSharp, .NET, Spring |
 | **AI 工具** | Claude Code, Hermes Agent, GPT-4 |
-| **平台** | macOS, iOS, Linux |
+| **平台** | macOS, iOS, Windows, Linux |
 | **工具** | Git, Xcode, VS Code, Docker |
 
 </div>
@@ -151,6 +174,7 @@ class Developer {
 $ ps aux | grep "active projects"
 
 vector4wang  EdgeGlow v1.0.0     [macOS] AI 编程可视化反馈
+vector4wang  EdgeGlow (Win)      [Windows] AI 状态可视化（移植版）
 vector4wang  Poor Man's DevOps   [DevOps] AI 运维助手
 vector4wang  ???                 [research] 发现下一个真实痛点
 ```
