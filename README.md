@@ -107,6 +107,31 @@ class Developer {
 </td>
 
 </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+### ✦ 萌芽学前
+**3–6 岁幼小衔接全科启蒙小程序**
+
+[![WeChat](https://img.shields.io/badge/微信-小程序-07C160?logo=wechat&logoColor=white)](https://github.com/vector4wang/mengya-preschool-miniprogram)
+[![Offline](https://img.shields.io/badge/Offline-First-34C759.svg)]()
+[![No Ads](https://img.shields.io/badge/Ads-None-ffb02e.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/vector4wang/mengya-preschool-miniprogram/blob/main/LICENSE)
+
+**痛点**：给孩子找的启蒙 App 满屏广告、内购、还要联网收集数据
+
+**方案**：纯离线小程序，拼音 / 加减法 / 英语 / 古诗四科启蒙
+
+🟢 无广告 · 无内购 · 数据仅存本机
+🟢 内置 229 条离线语音，真机即时可用
+🟢 护眼计时 + 多宝贝进度 + 家长看板
+
+**[→ 查看项目](https://github.com/vector4wang/mengya-preschool-miniprogram)**
+
+</td>
+
+</tr>
 </table>
 
 ---
