@@ -131,6 +131,30 @@ class Developer {
 
 </td>
 
+<td width="33%" valign="top">
+
+### ✦ Draw.io Scientific Illustrator
+**MCP 插件 - 让 AI 在 draw.io 里实时画图**
+
+[![Node](https://img.shields.io/badge/Node-22%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MCP](https://img.shields.io/badge/MCP-Plugin-7E57C2.svg)]()
+[![Draw.io](https://img.shields.io/badge/Draw.io-Desktop-F08705?logo=diagramsdotnet&logoColor=white)](https://www.drawio.com/)
+[![Dual Host](https://img.shields.io/badge/Codex+%2B+Claude_Code-2%20hosts-FF6B6B.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**痛点**：AI 想画架构图，要么预生成 XML（用户看不到过程），要么用 OS 鼠标键盘（脆弱且跨平台差）
+
+**方案**：MCP 直连 draw.io 内部 graph API，形状按节奏实时出现在画布上
+
+🟢 **双宿主**：Codex 插件 + Claude Code `/drawio-live` 触发
+🟢 **自适应设计系统**：按项目类型选布局（堆栈/流程/辐射/矩阵/树/时间线/BPMN）
+🟢 **硬约束**：只走 draw.io 内部 API，绝不操作 OS 鼠标键盘
+🟢 **零依赖**：单文件 Python agent 也能 1 行 curl 启动
+
+**[→ 查看项目](https://github.com/vector4wang/drawio-scientific-illustrator)** | **[→ /drawio-live Skill](https://github.com/vector4wang/drawio-scientific-illustrator/tree/main/plugins/drawio-scientific-illustrator/skills/drawio-live)**
+
+</td>
+
 </tr>
 </table>
 
@@ -144,7 +168,7 @@ class Developer {
 |------|--------|
 | **编程语言** | Swift, C#, Python, Java, JavaScript |
 | **框架** | SwiftUI, Cocoa, Core Animation, WPF, SkiaSharp, .NET, Spring |
-| **AI 工具** | Claude Code, Hermes Agent, GPT-4 |
+| **AI 工具** | Claude Code, Codex, GPT-4 |
 | **平台** | macOS, iOS, Windows, Linux |
 | **工具** | Git, Xcode, VS Code, Docker |
 
@@ -198,10 +222,11 @@ class Developer {
 ```bash
 $ ps aux | grep "active projects"
 
-vector4wang  EdgeGlow v1.0.0     [macOS] AI 编程可视化反馈
-vector4wang  EdgeGlow (Win)      [Windows] AI 状态可视化（移植版）
-vector4wang  Poor Man's DevOps   [DevOps] AI 运维助手
-vector4wang  ???                 [research] 发现下一个真实痛点
+vector4wang  EdgeGlow v1.0.0       [macOS]   AI 编程可视化反馈
+vector4wang  EdgeGlow (Win)        [Windows] AI 状态可视化（移植版）
+vector4wang  Draw.io Sci Illustrator [MCP]     AI 在 draw.io 里实时画图（双宿主插件）
+vector4wang  Poor Man's DevOps     [DevOps]  AI 运维助手
+vector4wang  ???                   [research] 发现下一个真实痛点
 ```
 
 ---
