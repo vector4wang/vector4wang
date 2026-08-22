@@ -155,18 +155,15 @@ class Developer {
 
 </td>
 
-</tr>
-<tr>
-
-<td width="100%" valign="top">
+<td width="33%" valign="top">
 
 ### ✦ apipeek
 **一个更省心的 HTTP/HTTPS API 抓包工具**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![mitmproxy](https://img.shields.io/badge/mitmproxy-10+-FF2D20)](https://mitmproxy.org/)
-[![Windows](https://img.shields.io/badge/Windows-便携版-0078D4?logo=windows&logoColor=white)](https://github.com/vector4wang/apipeek/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/vector4wang/apipeek/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![mitmproxy](https://img.shields.io/badge/mitmproxy-10+-FF2D20?style=flat)](https://mitmproxy.org/)
+[![Windows](https://img.shields.io/badge/Windows-%E4%BE%BF%E6%90%BA%E7%89%88-0078D4?style=flat&logo=windows&logoColor=white)](https://github.com/vector4wang/apipeek/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/vector4wang/apipeek/blob/main/LICENSE)
 
 **痛点**：抓小程序 / App 接口时，被图片、埋点、静态资源淹没，手动筛请求太麻烦
 
@@ -179,7 +176,6 @@ class Developer {
 **[→ 查看项目](https://github.com/vector4wang/apipeek)** | **[→ 下载便携版](https://github.com/vector4wang/apipeek/releases)**
 
 </td>
-
 </tr>
 </table>
 
