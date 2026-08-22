@@ -156,6 +156,31 @@ class Developer {
 </td>
 
 </tr>
+<tr>
+
+<td width="100%" valign="top">
+
+### ✦ apipeek
+**一个更省心的 HTTP/HTTPS API 抓包工具**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![mitmproxy](https://img.shields.io/badge/mitmproxy-10+-FF2D20)](https://mitmproxy.org/)
+[![Windows](https://img.shields.io/badge/Windows-便携版-0078D4?logo=windows&logoColor=white)](https://github.com/vector4wang/apipeek/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/vector4wang/apipeek/blob/main/LICENSE)
+
+**痛点**：抓小程序 / App 接口时，被图片、埋点、静态资源淹没，手动筛请求太麻烦
+
+**方案**：对 mitmproxy 的轻量封装，开箱即用，自动过滤噪声并输出结构化结果
+
+🟢 自动过滤图片 / 字体 / CSS / 埋点，只保留 JSON / 表单 / GraphQL / REST 请求
+🟢 输出 JSONL / HAR，一行一个完整请求，方便 grep / jq / 二次分析
+🟢 Windows 便携版：解压双击即用，无需安装 Python，内置证书安装与代理开关
+
+**[→ 查看项目](https://github.com/vector4wang/apipeek)** | **[→ 下载便携版](https://github.com/vector4wang/apipeek/releases)**
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -226,6 +251,7 @@ vector4wang  EdgeGlow v1.0.0       [macOS]   AI 编程可视化反馈
 vector4wang  EdgeGlow (Win)        [Windows] AI 状态可视化（移植版）
 vector4wang  Draw.io Sci Illustrator [MCP]     AI 在 draw.io 里实时画图（双宿主插件）
 vector4wang  Poor Man's DevOps     [DevOps]  AI 运维助手
+vector4wang  apipeek               [Tools]   API 抓包工具（Windows 便携版）
 vector4wang  ???                   [research] 发现下一个真实痛点
 ```
 
