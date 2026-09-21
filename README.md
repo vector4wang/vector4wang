@@ -177,6 +177,30 @@ class Developer {
 
 </td>
 </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+### ✦ baidu-to-amap
+**百度地图收藏夹 → 高德地图收藏夹 一键迁移**
+
+[![Node](https://img.shields.io/badge/Node-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Playwright](https://img.shields.io/badge/Powered%20by-Playwright-45ba63.svg)](https://playwright.dev/)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat&logo=windows&logoColor=white)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/vector4wang/baidu-to-amap/blob/main/LICENSE)
+
+**痛点**：百度和高德收藏夹互不开放，官方没有迁移通道，攒了几百个点只能手动一个个重搜
+
+**方案**：导出 → 清洗去重转坐标 → 网页版自动化收藏，三点全自动进高德收藏夹
+
+🟢 CSV 保守清洗：去重、剔除脏数据、BD09/BD09MC 一键转 GCJ02
+🟢 驱动本机 Chrome 自动点星标，官方云同步直进 App 收藏夹
+🟢 已收藏自动跳过防误取消，断点续跑；实测 708/708 零失败
+
+**[→ 查看项目](https://github.com/vector4wang/baidu-to-amap)** | **[→ 使用说明](https://github.com/vector4wang/baidu-to-amap#readme)**
+
+</td>
+</tr>
 </table>
 
 ---
@@ -248,6 +272,7 @@ vector4wang  EdgeGlow (Win)        [Windows] AI 状态可视化（移植版）
 vector4wang  Draw.io Sci Illustrator [MCP]     AI 在 draw.io 里实时画图（双宿主插件）
 vector4wang  Poor Man's DevOps     [DevOps]  AI 运维助手
 vector4wang  apipeek               [Tools]   API 抓包工具（Windows 便携版）
+vector4wang  baidu-to-amap         [Tools]   百度收藏夹迁移高德（708/708 实测）
 vector4wang  ???                   [research] 发现下一个真实痛点
 ```
 
